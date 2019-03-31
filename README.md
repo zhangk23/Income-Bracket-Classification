@@ -5,5 +5,5 @@ The goal of this assignment is to train, validate, and tune multiple classifiers
 
 Note: 
 
-1. The two csv files used ( income-training.csv , income-testing.csv ) should be in the same directory as this IPython script.
-2. Some sections in this script requries longer computation time, your patience is very much appriciated!
+1. The two csv files used (income-training.csv , income-testing.csv) should be in the same directory as the IPython script.
+2. Some sections in this script requries longer computation time, your patience is very much appriciated~!
